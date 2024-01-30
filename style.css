@@ -9,7 +9,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('img/3.jpg');
+   /* background: url('img/3.jpg'); */
+    background-color: #579ade;
 }
 .container{
     position: relative;
